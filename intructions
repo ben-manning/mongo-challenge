@@ -1,0 +1,15 @@
+1. Step one, enter 'mongod' into one terminal window and use 'mongo' in the second terminal window
+2. Type help is good for finding commands
+3. Typing 'use <blank>' creates and names the db in mongo terminal.
+4. The return will be <blank>.show (the use command will also switch between db's).
+
+
+### If you enter the wrong information when doing a query the return will be blank.
+### 'show dbs' will show all of your databases in MongoDB.
+### 'show collections' will show all of your collections in MongoDB.
+
+
+## Move step three of the beginning of the basic challenges to the beginning of the notes
+
+
+# With npm install issues I need to use 'npm cache clean'
